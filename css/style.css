@@ -9,6 +9,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     cursor: default;
     color:Gray;
 }
+.top-pad{
+    padding-top:15px;
+}
+.right-align-me{
+    float:right;
+}
 .project_class{
     padding:1.6em 1.2em;
     background:rgba(8, 8, 8, 0.74);
